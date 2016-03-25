@@ -1,0 +1,8 @@
+输入：
+正整数
+
+输出：
+True or False
+True 就是素数
+False 不是素数
+
